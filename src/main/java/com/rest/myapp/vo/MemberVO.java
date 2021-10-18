@@ -47,7 +47,7 @@ public class MemberVO {
 
 	@Override
 	public String toString() {
-		return "member = [ id =" +this.id +",name = "+ this.name +", age = " + this.age +", dept = "+ this.dept +"]";
+		return "member = [ id =" +id +",name = "+ name +", age = " + age +", dept = "+ dept +"]";
 	}
 	
 	
